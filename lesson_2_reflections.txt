@@ -1,0 +1,15 @@
+Initializing a repository creates the .git file that
+tracks changes to the files in the git repository.
+It needs to be done before you can use git bash to 
+look through that history to see and mess with changes.
+
+The staging area allows you to queue up changes to be
+saved rather than forcing you to save the entire project
+at once. This can be useful in situations where you might
+have changs in multiple files, but not all of them are
+ready to be comitted when you want to do a commit.
+Using the staging area also makes git status show which
+files have been altered and which haven't, so if there
+is a file with a change you don't remember when you go
+to make the commit you can inspect it to figure out 
+why.

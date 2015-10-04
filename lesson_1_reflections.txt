@@ -1,0 +1,33 @@
+It was very useful while working with code to be able
+to only see the code that has changed while working
+on it. That way, you don't get distracted by things
+that aren't causing a new problem when it pops up.
+
+You can look at the history of how you wrote a program
+to see where you could have improved it. That way you
+can write the program better and faster in the future.
+
+It is nice that you get to commit whenever it makes 
+sense for you. You can personalize how often you commit
+to better suit your programming style, and you don't
+have to worry about missing important changes.
+However, it would be nice to not have to actively
+worry about version control, and to not get messed
+up by human error.
+
+Git is designed for programming version control,
+where keeping track of multiple files at the same
+time is very common. However, in most circumstances
+that functionality is not really needed. So services
+like Google Docs, which is primarily meant for word
+processing, don't include that feature.
+
+Git log shows the list of commits and their
+descriptions so you can find the change you are
+looking for. You can then use git diff to find the
+differences between that commit and the commit before 
+it.
+
+With version control you can very easily revert back
+to a state you know is working, so you don't have to
+worry about breaking anything.

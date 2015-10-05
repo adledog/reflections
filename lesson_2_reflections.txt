@@ -13,3 +13,16 @@ files have been altered and which haven't, so if there
 is a file with a change you don't remember when you go
 to make the commit you can inspect it to figure out 
 why.
+
+You can use the staging area to both check what has
+changed between the changes you're thinking about saving
+and the previous commit, and the differences between
+what you're thinking about changing and everything you've
+done since the previous commit. This way, you can be sure
+that everything you're committing makes sense to commit
+at the same time.
+
+Branches would be useful in any situation in which you
+want to try large changes that might or might not pan out,
+or when you want multiple versions of a project that don't
+interfere with each other.
